@@ -1,0 +1,6 @@
+Revision history for Perl extension Image::Temperature.
+
+0.01  Tue May 20 21:53:21 2003
+	- original version; created by h2xs 1.21 with options
+		-XA Image::Temperature
+
